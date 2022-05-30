@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Koulen&display=swap');
+
+body{
+      
+}
+.navbar-brand {
+      font-size: 72px;
+      background: linear-gradient(to right, #000428, #004e92);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }
+    .top-deals{
+          margin-top: 50px;
+    }
+
+
